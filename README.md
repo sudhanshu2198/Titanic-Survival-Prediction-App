@@ -29,13 +29,12 @@ Clone the project
 Change to project directory
 
 ```bash
-  cd my_project
+  cd Titanic-Survival-Prediction-App
 ```
-Create Virtual Envionment
+Now install all requirements
 
 ```bash
-  python -m venv venv
-  venv\Scripts\activate
+  pip install -r requirements.txt
 
 ```
 
