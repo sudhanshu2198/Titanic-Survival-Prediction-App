@@ -17,8 +17,8 @@ While there was some element of luck involved in surviving, it seems some groups
 ## 🛠 Skills
 Python, Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Streamlit, Git
 
+## Directory Tree
 ```bash
-Directory Tree
 
 ├── artifacts
 │   ├── lencoder.pkl
