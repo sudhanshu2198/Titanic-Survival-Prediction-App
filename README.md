@@ -1,5 +1,5 @@
 
-# Titanic Tragedy Visualisation
+# Titanic Survival Prediction App
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -10,13 +10,12 @@ While there was some element of luck involved in surviving, it seems some groups
 
 ## 🔗 Links
 
- - [App Link](https://sudhanshu2198-titanic-tragedy-visualization-introduction-rgc3xa.streamlit.app/)
- - [Kaggle Notebook link](https://www.kaggle.com/code/sudhanshu2198/titanic-survival-prediction)
+ - [App Link](https://sudhanshu2198-titanic-survival-prediction-a-introduction-vigidy.streamlit.app/)
+ - [Kaggle Notebook link](https://www.kaggle.com/code/sudhanshu2198/end-to-end-titanic-survival-prediction-app?scriptVersionId=120569132)
 
 
 ## 🛠 Skills
-Python, Pandas, Numpy, Matplotlib, Plotly, Streamlit,
-Git
+Python, Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Streamlit, Git
 
 
 ## Run Locally
@@ -24,7 +23,7 @@ Git
 Clone the project
 
 ```bash
-  git clone https://github.com/sudhanshu2198/Titanic-Tragedy-Visualization
+  git clone https://github.com/sudhanshu2198/Titanic-Survival-Prediction-App
 ```
 
 Change to project directory
