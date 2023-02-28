@@ -17,6 +17,25 @@ While there was some element of luck involved in surviving, it seems some groups
 ## 🛠 Skills
 Python, Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Streamlit, Git
 
+```bash
+###Directory Tree
+
+├── artifacts
+│   ├── lencoder.pkl
+│   └── model.pkl 
+├── pages
+│   ├── Prediction.py
+│   └── Visualization.py
+├── resources
+│   ├── data
+│   │   └── Titanic.csv
+│   └── images
+│       └── Titanic.jpg
+├── Introduction.py
+├── README.md
+├── model_building.ipynb
+└── requirements.txt
+```
 
 ## Run Locally
 
