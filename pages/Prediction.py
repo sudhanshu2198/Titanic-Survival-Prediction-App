@@ -26,9 +26,6 @@ with st.form('user_inputs'):
     Age=st.number_input("Age of passenger",min_value=0.5,max_value=80.0,value=20.0,step=0.5)
     click=st.form_submit_button()
 
-
-df=[Class, Sex, Age, No_of_siblings, No_of_parents, Fare, Embarked]
-
 class_lower, class_middle, class_upper=0,0,0
 if Class=="Lower":
    class_lower=1
@@ -56,7 +53,6 @@ data=[[Age, No_of_siblings, No_of_parents, Fare,class_lower, class_middle, class
 
 
 if click:
-   st.write("Your input data:\n {}".format(df))
    prediction=model.predict(data)
    prediction=lencoder.inverse_transform(prediction)[0]
    if prediction=="Survived":
