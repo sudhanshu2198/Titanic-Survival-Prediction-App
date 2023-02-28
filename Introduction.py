@@ -4,7 +4,7 @@ import numpy as np
 import os
 from matplotlib import image
 
-st.title("Titanic Tragedy Visualization")
+st.title("Titanic Survival Prediction")
 st.subheader("Sudhanshu Rastogi")
 col1,col2=st.columns(2)
 with col1:
